@@ -38,6 +38,6 @@ module hexagon_grid(rows, columns, size, height) {
     }
 }
 
-// create a 3x3 grid with hexagons 20 mm radius and 10 mm height
-hexagon_grid(3, 3, 20, 10);
+// create a 3x3 grid with hexagons 20 mm radius and 80 mm height
+hexagon_grid(3, 3, 20, 80);
 ```
